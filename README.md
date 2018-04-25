@@ -1,2 +1,0 @@
-# coding_picture
-player
